@@ -1,5 +1,9 @@
 ## Hi there 👋
+# Hi 👋, I'm Anuradha Ghosh
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuradhaghosh-byte&show_icons=true&theme=radical)
 <!--
 **anuradhaghosh-byte/anuradhaghosh-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
